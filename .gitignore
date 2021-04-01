@@ -1,0 +1,42 @@
+# General
+*.DS_Store
+*.idea
+
+# development
+.env
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/stats
+
+# logs
+*.log
+
+# reporting
+/.zephyr
+/allure-report
+/allure-results
+
+#content
+/content
+
+#scripts
+/scripts/copy-content-files/input
+
+/src/static-texts/*.json
+/public/robots.txt
+/public/sitemap.xml
+/public/index.html
+
+#src
+/src/config/cmsConfig.json
+/src/layouts/content/
+/src/layouts/skeleton/
+/src/layouts/firstVisiblePage.json
+/src/logic/main/initialContext.json
