@@ -40,3 +40,4 @@
 /src/layouts/skeleton/
 /src/layouts/firstVisiblePage.json
 /src/logic/main/initialContext.json
+/node_modules/
